@@ -1,4 +1,4 @@
-### Hola, soy Mili! 👋
+# Hola, soy Mili! 👋
 
 ## Bienvenido a mi perfil de GitHub ✨
 

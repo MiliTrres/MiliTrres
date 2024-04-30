@@ -8,9 +8,9 @@ Soy una Analista de Datos con experiencia en procesos de ETL, visualización y a
 
 ## 🛠️ My tech skills
 
-**Python** 🐍
-  Pandas 🐼
-  NumPy 
+**Python** 🐍  
+  Pandas 🐼  
+  NumPy 🧮  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -20,20 +20,22 @@ Soy una Analista de Datos con experiencia en procesos de ETL, visualización y a
 >PostgreSQL 🐘  
 >SQL Server 🛢️
 
-**Visualización de Datos** 📊🎥
+**Visualización de Datos** 🎥
 >Power BI 📊  
 >Tableau 📉  
 >QlickView 📈
 
+**ETL** 🧹
+
+**Microsoft Office** 📌
+
+**Machine Learning** 🤖
+
+**Streamlit** 🚀
+
+## 📫 Contactame
+
+¡No dudes en contactarme por [correo electrónico](milagros.torres.42159@gmail.com) o a través de [LinkedIn](https://www.linkedin.com/in/milagrostorres23/)!
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ¡Gracias por visitar mi perfil! 🙋🏽‍♂️

@@ -1,8 +1,8 @@
 # Hola, soy Mili! 👋
 
-### Soy una Analista de Datos con experiencia en procesos de ETL, visualización y análisis de datos para toma de decisionesestratégicas, implementando entornos virtuales, servicios en la nube (GCP), trabajando bajometodología SCRUM y entornos colaborativos en GitHub. Dominio avanzado de diversasherramientas de visualización; lenguaje de programación Python y lenguaje de consulta SQL.
-
 ## Bienvenido/a a mi perfil de GitHub ✨
+
+Soy una Analista de Datos con experiencia en procesos de ETL, visualización y análisis de datos para toma de decisionesestratégicas, implementando entornos virtuales, servicios en la nube (GCP), trabajando bajometodología SCRUM y entornos colaborativos en GitHub. Dominio avanzado de diversasherramientas de visualización; lenguaje de programación Python y lenguaje de consulta SQL.
 
 Here are some ideas to get you started:
 

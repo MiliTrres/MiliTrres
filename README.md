@@ -1,4 +1,4 @@
-# Hola, soy Mili! 👋
+<h1 align="center">Hola, soy Mili! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## Bienvenido/a a mi perfil de GitHub ✨
 

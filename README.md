@@ -18,7 +18,15 @@ Soy una Analista de Datos con experiencia en procesos de ETL, visualización y a
 **SQL** 🗃️
 >MySQL 🐬  
 >PostgreSQL 🐘  
->SQL Server 🛢️    
+>SQL Server 🛢️
+
+**Visualización de Datos** 📊🎥
+>Power BI 📊  
+>Tableau 📉  
+>QlickView 📈
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Mili! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Bienvenido/a a mi perfil de GitHub ✨
+<h1 align="center">Bienvenido/a a mi perfil de GitHub ✨</h1> 
 
 Soy una Analista de Datos con experiencia en procesos de ETL, visualización y análisis de datos para toma de decisionesestratégicas, implementando entornos virtuales, servicios en la nube (GCP), trabajando bajometodología SCRUM y entornos colaborativos en GitHub. Dominio avanzado de diversasherramientas de visualización; lenguaje de programación Python y lenguaje de consulta SQL.
 

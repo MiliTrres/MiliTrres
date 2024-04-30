@@ -12,13 +12,13 @@ Soy una Analista de Datos con experiencia en procesos de ETL, visualización y a
 >Pandas 🐼  
 >NumPy 🧮  
 >Matplotlib 📊  
->Seaborn 📈
+>Seaborn 📈  
 >Sklearn 🤖
 
 **SQL** 🗃️
->MySQL 🐬
->PostgreSQL 🐘
->SQL Server 🛢️  
+>MySQL 🐬  
+>PostgreSQL 🐘  
+>SQL Server 🛢️    
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

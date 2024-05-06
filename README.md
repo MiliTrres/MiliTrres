@@ -35,7 +35,7 @@ Soy una Analista de Datos con experiencia en procesos de ETL, visualización y a
 
 ## 📫 Contactame
 
-¡No dudes en contactarme por [correo electrónico](milagros.torres.42159@gmail.com) o a través de [LinkedIn](https://www.linkedin.com/in/milagrostorres23/)!
+¡No dudes en contactarme por [correo electrónico](mailto:milagros.torres.42159@gmail.com) o a través de [LinkedIn](https://www.linkedin.com/in/milagrostorres23/)!
 
 
 ### ¡Gracias por visitar mi perfil! 🙋🏽‍♂️

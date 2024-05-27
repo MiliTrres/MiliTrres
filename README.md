@@ -4,7 +4,7 @@
 
 <h1 align="center">Bienvenido/a a mi perfil de GitHub ✨</h1> 
 
-Soy una Analista de Datos con experiencia en procesos de ETL, visualización y análisis de datos para toma de decisionesestratégicas, implementando entornos virtuales, servicios en la nube (GCP), trabajando bajometodología SCRUM y entornos colaborativos en GitHub. Dominio avanzado de diversasherramientas de visualización; lenguaje de programación Python y lenguaje de consulta SQL.
+Soy una Analista de Datos con experiencia en procesos de ETL, visualización y análisis de datos para toma de decisiones estratégicas, implementando entornos virtuales, servicios en la nube (GCP), trabajando bajo metodología SCRUM y entornos colaborativos en GitHub. Dominio avanzado de diversas herramientas de visualización; lenguaje de programación Python y lenguaje de consulta SQL.
 
 ## 🛠️ My tech skills
 

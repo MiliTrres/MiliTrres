@@ -29,9 +29,9 @@ Soy una Analista de Datos con experiencia en procesos de ETL, visualización y a
 >Extracción, Transformación y Carga.
 
 **Microsoft Office** 📌
->Power Point
->Excel
->Word
+>Power Point  
+>Excel  
+>Word  
 
 **Machine Learning** 🤖
 

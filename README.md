@@ -26,6 +26,7 @@ Soy una Analista de Datos con experiencia en procesos de ETL, visualización y a
 >QlickView 📈
 
 **ETL** 🧹
+>Extracción, Transformación y Carga.
 
 **Microsoft Office** 📌
 
